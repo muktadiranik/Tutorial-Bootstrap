@@ -1,0 +1,10 @@
+#carousel_section {
+  background-color: cadetblue;
+  padding: 1.5rem;
+}
+
+#carousel_hr {
+  border: 2px solid black;
+  border-bottom: none;
+  width: 50%;
+}
